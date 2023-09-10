@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.abstract{
+    position: absolute;
+    left: -5rem;
+    background: linear-gradient(180deg,hsl(293, 100%, 63%) 0%,hsl(264, 100%, 61%)100%);
+    height: 90vh;
+    width: 35%;
+    border-radius: 0 0 50% 50%;
+}
+.abstract2{
+    position: absolute;
+    right: 0rem;
+    top: 50%;
+    background-color: rgb(236, 236, 236);
+    height: 50vh;
+    width: 35%;
+    border-radius:20rem 0 0 0;
+    z-index: -1;
+}
+.mockup{
+    border: 10px solid white;
+    width: 20vw;
+    height: 80vh;
+    position: absolute;
+    left: 15rem;
+    top: 3rem;
+    border-radius: 1.5rem;
+    background-color: hsl(270, 20%, 96%);
+    box-shadow: 1px 2px 6px rgb(46, 45, 45);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.left{
+    width: 50%;
+}
+.right{
+    width: 40%;
+}
+.notch{
+    background-color: white;
+    height: 3%;
+    width: 40%;
+    margin: 0 auto;
+    border-bottom-left-radius: 1.2rem;
+    border-bottom-right-radius: 1.2rem;
+    position: absolute;
+    left: 4rem;
+}
+
+.appbar{
+    background: linear-gradient(45deg,hsl(264, 100%, 61%) 0%,hsl(293, 100%, 63%)100%);
+    height: 20%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+.item-detail{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+.avatar{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    border: 1px solid white;
+}
+.avatar img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.text p{
+    font-size:0.5rem ;
+}
+.chat{
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 0.5rem;
+}
+.chat p{
+    font-size: 0.5rem;
+}
+.samuel{
+    background-color: rgb(204, 202, 202);
+    padding: 0.5rem;
+    width: 50%;
+    border-radius: 0.4rem;
+    color: hsl(264, 95%, 32%);
+}
+.picture-div{
+    display: flex;
+    gap: 0.5rem;
+}
+.dog-picture{
+    background-color: gray;
+    border-radius: 0.2rem;
+    height: 24px;
+    width: 48px;
+}
+.dog-picture img{
+    height: 24px;
+    width: 48px;
+    border-radius: 0.2rem;
+}
+.client{
+    background-color: white;
+    padding: 0.5rem;
+    width: 50%;
+    border-radius: 0.4rem;
+}
+.charges{
+    background:linear-gradient(45deg,hsl(293, 100%, 63%) 0%,hsl(264, 100%, 61%)100%);
+    padding: 0.5rem;
+    width: 50%;
+    border-radius: 0.4rem;
+    color:white;
+}
+.search-bar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    border-radius: 1.5rem;
+}
+.icon{
+    background-color: hsl(271, 36%, 24%);
+    padding: 0.2rem 0.5rem;
+    color: white;
+    border-radius: 1.5rem;
+}
