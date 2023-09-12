@@ -13,7 +13,7 @@ This is a solution to the [Chat app CSS illustration challenge on Frontend Mento
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -26,14 +26,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Design](./design/desktop-design.jpg.jpg)
+![Design](./design/desktop-preview.png)
+
+![Mobile](./design/mobile-preview.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/sudhanshusingh-g/chat-app-illustration)
+- Live Site URL: [Add live site URL here](https://sudhanshusingh-g.github.io/chat-app-illustration/)
 
 ## My process
 
@@ -51,8 +53,7 @@ Responsiveness of the website
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Sudhanshu Singh](https://www.linkedin.com/in/sudhanshusingh32/)
+- Twitter - [@_sudhanshu97_](https://twitter.com/_sudhanshu97)
 
 
